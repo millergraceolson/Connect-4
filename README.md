@@ -8,8 +8,7 @@ This program is a digital replication of the gameplay Connect4. Background and i
 4. Searches for winner
 5. Checks for winner
 
-
 # Languages and features: 
-C++ 
+C++, 
 Two dimensional arrays on the stack 
 
